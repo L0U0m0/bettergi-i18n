@@ -112,15 +112,13 @@ async function main() {
       const rows = await fetchLanguageBatch({ supabaseUrl, supabaseKey, language, lastId, batchSize });
       if (!Array.isArray(rows) || rows.length === 0) break;
       for (const row of rows) {
-        const k = String(row?.key ?? "").trim();
+        const rawKey = String(row?.key ?? "");
         const v = row?.value;
-        if (!k) continue;
-        if (typeof v === "string") {
-          const t = v.trim();
-          if (t) {
-            map[k] = t;
-            added += 1;
-          }
+        if (!rawKey) continue;
+        const k = rawKey;
+        if (typeof v === "string" && v) {
+          map[k] = v;
+          added += 1;
         }
       }
       lastId = Math.max(lastId, rows[rows.length - 1]?.id ?? lastId);
