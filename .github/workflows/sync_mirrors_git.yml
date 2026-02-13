@@ -25,6 +25,6 @@ jobs:
     
     - name: Sync to CNB
       run: |
-        git remote add cnb https://cnb.cool/bettergi/bettergi-i18n.git || true
-        git push https://cnb:${{ secrets.CNB_TOKEN }}@cnb.cool/bettergi/bettergi-i18n.git main
+        git remote add cnb https://cnb.cool/bettergi/bettergi-i18n || true
+        git push https://cnb:${{ secrets.CNB_TOKEN }}@cnb.cool/bettergi/bettergi-i18n main
     
