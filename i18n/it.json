@@ -949,5 +949,11 @@
   "派蒙检测延时（秒）": "Ritardo rilevamento Paimon (s)",
   "按L后等待该时间再检测派蒙头像，默认为0.1秒": "Dopo aver premuto L, attendi questo tempo prima di rilevare l'icona di Paimon; predefinito 0.1 secondi",
   "触发战斗结束检查时，先等待该延时以确保角色动作后摇结束。也可为角色单独指定延时，格式如0.4或0.4;钟离,1.5": "Quando si attiva la verifica di fine combattimento, attendi prima questo ritardo per assicurarti che il recovery dell'azione del personaggio sia terminato. Puoi anche specificare un ritardo per singolo personaggio, formato ad es. 0.4 oppure 0.4;Zhongli,1.5",
-  "按下切换队伍后去检查屏幕色块的延时，默认为0.45秒。若出现无法结束战斗可以适当提高这个值，比如0.75。但不要太大，确保这个延时不会真的把队伍配置界面切出来。": "Ritardo prima di controllare il blocco colore sullo schermo dopo aver premuto il cambio squadra; predefinito 0.45 secondi. Se il combattimento non riesce a terminare, puoi aumentare leggermente questo valore, ad esempio a 0.75. Non impostarlo troppo alto, per evitare che questo ritardo apra realmente la schermata di configurazione della squadra."
+  "按下切换队伍后去检查屏幕色块的延时，默认为0.45秒。若出现无法结束战斗可以适当提高这个值，比如0.75。但不要太大，确保这个延时不会真的把队伍配置界面切出来。": "Ritardo prima di controllare il blocco colore sullo schermo dopo aver premuto il cambio squadra; predefinito 0.45 secondi. Se il combattimento non riesce a terminare, puoi aumentare leggermente questo valore, ad esempio a 0.75. Non impostarlo troppo alto, per evitare che questo ritardo apra realmente la schermata di configurazione della squadra.",
+  "也可以直接点击导入下面的示例配置组": "Puoi anche cliccare direttamente per importare i gruppi di configurazione di esempio qui sotto",
+  "导入自动晶蝶示例配置组": "Importa il gruppo di configurazione di esempio Farfalla di Cristallo automatica",
+  "自动吃食物配置 - ": "Configurazione del consumo automatico di cibo - ",
+  "点击查看调用方法": "Clicca per vedere il metodo di invocazione",
+  "可以从这里获取zip：": "Puoi ottenere lo zip da qui:",
+  "脚本仓库文档": "Documentazione del repository script"
 }
