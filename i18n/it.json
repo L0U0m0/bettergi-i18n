@@ -1711,5 +1711,14 @@
   "自动赶路角色：行走位 {Name}({Index})": "Personaggio spostamento automatico: slot a piedi {Name} ({Index})",
   "自动赶路角色：按优先级选择 {Name}": "Personaggio spostamento automatico: selezionato per priorità {Name}",
   "手动指定的赶路角色 {Name} 不在当前队伍中，不启用赶路": "Il personaggio per lo spostamento specificato manualmente {Name} non è nella squadra attuale: spostamento automatico non attivato",
-  "卡死脱困超时！": "Timeout nell'uscita dal blocco!"
+  "卡死脱困超时！": "Timeout nell'uscita dal blocco!",
+  "自动秘境：限时全开秘境奖励序号 {sundaySelectedValue}": "Dominio automatico: numero ricompensa selezionato per l'apertura completa a tempo limitato {sundaySelectedValue}",
+  "自动秘境：周日设置了秘境奖励序号 {sundaySelectedValue}": "Dominio automatico: numero ricompensa impostato per la domenica {sundaySelectedValue}",
+  "自动秘境：限时全开秘境未设置特定秘境奖励": "Dominio automatico: nessuna ricompensa specifica impostata per l'apertura completa a tempo limitato",
+  "自动秘境：周日秘境未设置特定秘境奖励": "Dominio automatico: nessuna ricompensa specifica impostata per la domenica",
+  "未设置秘境奖励序号": "Numero ricompensa del Dominio non impostato",
+  "设置秘境奖励序号错误，请检查配置页面": "Numero ricompensa del Dominio impostato in modo errato: controlla la pagina di configurazione",
+  "旋转次数达到上限，战斗结束": "Numero massimo di rotazioni raggiunto, combattimento terminato",
+  "{Name} 长按元素战技，cd:{Cd} 秒": "{Name}: pressione prolungata dell'Abilità Elementale, cd: {Cd} secondi",
+  "{Name} 点按元素战技，cd:{Cd} 秒": "{Name}: pressione breve dell'Abilità Elementale, cd: {Cd} secondi"
 }
