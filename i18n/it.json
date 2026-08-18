@@ -2606,5 +2606,18 @@
   "保存成功": "Salvataggio riuscito",
   "请输入网络图片地址。": "Inserisci l'indirizzo dell'immagine online.",
   "通知成功": "Notifica riuscita",
-  "通知类型未启用": "Il tipo di notifica non è abilitato"
+  "通知类型未启用": "Il tipo di notifica non è abilitato",
+  "我的曲库": "I miei spartiti",
+  "曲谱目录：": "Cartella spartiti: ",
+  "尚未选择曲谱目录": "nessuna selezionata",
+  "选择目录": "Scegli cartella",
+  "删除记录": "Rimuovi dalla cronologia",
+  "全部格式": "Tutti i formati",
+  "全部乐器": "Tutti gli strumenti",
+  "曲库还是空的": "La libreria è ancora vuota",
+  "尚未选择有效的曲谱目录": "Nessuna cartella spartiti valida selezionata",
+  "未播放": "Non in riproduzione",
+  "输入方式": "Modalità input",
+  "后台": "Background",
+  "前台": "Primo piano"
 }
