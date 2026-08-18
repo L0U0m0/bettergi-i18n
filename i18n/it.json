@@ -2619,5 +2619,14 @@
   "未播放": "Non in riproduzione",
   "输入方式": "Modalità input",
   "后台": "Background",
-  "前台": "Primo piano"
+  "前台": "Primo piano",
+  "识别当前页面的领取按钮或礼物图标并点击，需要配置快捷键进行触发": "Riconosce il pulsante di riscossione o l'icona regalo nella schermata corrente e ci clicca sopra; è necessario configurare un tasto rapido per attivarlo",
+  "模式选择": "Selezione modalità",
+  "点按一次会领取当前页面可见图标；按住持续会在松开快捷键时立即停止": "Clic singolo riscuote le icone visibili nella schermata corrente; tieni premuto continua fino al rilascio del tasto rapido",
+  "点按一次": "Clic singolo",
+  "按住持续": "Tieni premuto",
+  "未找到领取图标时滚轮下滑": "Scorri con la rotella se l'icona di riscossione non viene trovata",
+  "仅在按住持续模式下可用": "Disponibile solo in modalità Tieni premuto",
+  "滚轮下滑幅度": "Ampiezza scorrimento rotella",
+  "数值越大，每次未找到领取图标时向下滚动越多": "Più alto è il valore, più si scorre verso il basso ogni volta che non viene trovata l'icona di riscossione"
 }
