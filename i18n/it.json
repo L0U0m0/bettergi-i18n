@@ -2742,5 +2742,13 @@
   "精确匹配不拾取：": "Esclusioni a corrispondenza esatta:",
   "模糊匹配不拾取：": "Esclusioni a corrispondenza parziale:",
   "每行一条记录": "Una voce per riga",
-  "请在此输入配置，每行一条记录。\n示例：\n调查\n合成\n启动": "Inserisci qui la configurazione, una voce per riga.\nEsempio:\nEsamina\nFabbricazione\nAvvia"
+  "请在此输入配置，每行一条记录。\n示例：\n调查\n合成\n启动": "Inserisci qui la configurazione, una voce per riga.\nEsempio:\nEsamina\nFabbricazione\nAvvia",
+  "米游社大地图": "Mappa Miyoushe (CN)",
+  "空荧酒馆": "Kongying Tavern",
+  "加载中...": "Caricamento...",
+  "图片加载中...": "Caricamento immagine...",
+  "搜索当前区域下的标点分类": "Cerca le categorie di marcatori nella regione attuale",
+  "当前显示/全部标点": "Marcatori visibili / totali",
+  "全部隐藏": "Nascondi tutti",
+  "全部显示": "Mostra tutti"
 }
